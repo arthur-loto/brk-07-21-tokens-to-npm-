@@ -1,6 +1,6 @@
 {
   "name": "test-tokens-npm-3",
-  "version": "0.1.0-alpha.8",
+  "version": "0.1.0-alpha.9",
   "description": "Test de Package NPM de tokens (CSS, SCSS)",
   "main": "index.js",
   "scripts": {
