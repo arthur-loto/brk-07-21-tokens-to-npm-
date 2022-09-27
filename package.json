@@ -1,6 +1,6 @@
 {
   "name": "brk-tokens-mvp1",
-  "version": "1.1.0-alpha.0",
+  "version": "1.1.0-alpha.1",
   "description": "Package NPM de tokens (CSS, SCSS) Baraka MVP1",
   "main": "index.js",
   "scripts": {
